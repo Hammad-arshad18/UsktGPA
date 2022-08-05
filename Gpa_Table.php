@@ -1,0 +1,63 @@
+<!--Table To Show Grades-->
+<section class="grading-system py-2">
+    <div class="container user-select-none">
+        <h4 class="text-center py-3">Grading System USKT Fall-2018 To Spring-2020 </h4>
+        <table class="table w-75 table-bordered table-responsive-sm text-center table-dark table-striped ">
+            <tr>
+                <th>Numbers</th>
+                <th>Grade</th>
+                <th>Points</th>
+            </tr>
+            <tr>
+                <td>90-100</td>
+                <td>A+</td>
+                <td>4.0</td>
+            </tr>
+            <tr>
+                <td>85-89</td>
+                <td>A</td>
+                <td>3.7</td>
+            </tr>
+            <tr>
+                <td>80-84</td>
+                <td>A-</td>
+                <td>3.4</td>
+            </tr>
+            <tr>
+                <td>75-79</td>
+                <td>B+</td>
+                <td>3.0</td>
+            </tr>
+            <tr>
+                <td>70-74</td>
+                <td>B-</td>
+                <td>2.7</td>
+            </tr>
+            <tr>
+                <td>65-69</td>
+                <td>C+</td>
+                <td>2.4</td>
+            </tr>
+            <tr>
+                <td>60-64</td>
+                <td>C</td>
+                <td>2.0</td>
+            </tr>
+            <tr>
+                <td>55-59</td>
+                <td>C-</td>
+                <td>1.5</td>
+            </tr>
+            <tr>
+                <td>50-55</td>
+                <td>D</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>0-49</td>
+                <td>F</td>
+                <td>0</td>
+            </tr>
+        </table>
+    </div>
+</section>
